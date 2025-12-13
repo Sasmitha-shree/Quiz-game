@@ -6,10 +6,9 @@ QuizApp-Java/
 
 ├── src/
 
-      └── com/
-      
-           └── quizgame/
+   └── com/
+   
+   └── quizgame/
            
-                └── QuizApp.java
-
+   └── QuizApp.java
 
