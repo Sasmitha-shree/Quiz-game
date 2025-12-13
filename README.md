@@ -1,15 +1,5 @@
 # Quiz-game
 
-QuizApp-Java/
-
-│
-
-├── src/
-
-└── com/quizgame/
-
-            └── QuizApp.java
-
 - 20 Multiple Choice Questions
   
 - User-friendly console interface
