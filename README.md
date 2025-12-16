@@ -1,11 +1,11 @@
 # Quiz-game
-
-- 20 Multiple Choice Questions
+---
+- 20 Multiple Choice Questions.
   
-- User-friendly console interface
+- User-friendly console interface.
   
-- Case-insensitive answers
+- Case-insensitive answers.
   
-- Instant feedback for each question
+- Instant feedback for each question.
   
-- Final score display
+- Final score display.
