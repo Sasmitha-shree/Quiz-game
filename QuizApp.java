@@ -87,11 +87,11 @@ public class QuizApp {
                 System.out.println("✘ Wrong! Correct answer: " + q[5] + "\n");
             }
         }
-        System.out.println("==============================");
+        System.out.println("--------------------------------");
         System.out.println("          QUIZ RESULT         ");
-        System.out.println("==============================");
+        System.out.println("--------------------------------");
         System.out.println("Your Score: " + score + " / " + questions.length);
-        System.out.println("==============================");
+        System.out.println("--------------------------------");
 
         scanner.close();
     }
